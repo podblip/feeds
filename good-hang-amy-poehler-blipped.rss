@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Good Hang with Amy Poehler (Blipped)</title>
+    <description>Come hang with Amy Poehler. Each week on her podcast, she'll welcome celebrities and fun people to her studio. They'll share stories about their careers, mutual friends, shared enthusiasms, and most importantly, what's been making them laugh. This podcast is not about trying to make you better or giving advice. Amy just wants to have a good time.</description>
+    <language>en</language>
+    <link>https://www.theringer.com</link>
+    <itunes:author>The Ringer</itunes:author>
+    <itunes:category text="Technology" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/aa039a8e-de63-11ef-a44c-17dcb97c571d/image/39dfe060dbf437bfe5e5e0f0e8a88681.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <item>
+      <title>Kate McKinnon</title>
+      <guid isPermaLink="false">cade465a-97f9-11f0-9de7-a7a225dc7d4e-blipped</guid>
+      <description>Kate McKinnon is getting really into trim carpentry. Amy hangs with the 'SNL' alum and talks about Kate's desire to be in the woods, filling her time hole post-'SNL,' and the capitals of various countries.
+
+Host: Amy PoehlerGuests: Aidy Bryant and Kate McKinnonExecutive Producers: Bill Simmons, Amy Poehler, and Jenna Weiss-BermanFor Paper Kite Productions: Executive producer Jenna Weiss-Berman, coordinator Sam Green, and supervising producer Joel LovellFor The Ringer: Supervising producers Juliet Litman, Sean Fennessey, and Mallory Rubin; video producers Jack Wilson, Belle Roman, and Aleya Zenieris; lighting director Caroline Jannace; audio producer Kaya McMullen; video editor Drew van Steenbergen; and booker Kat SpillaneOriginal Music: Amy Miles
+
+Palmolive removes up to 2.5X the grease**vs. leading brand non-concentrated formula
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <itunes:duration>4058</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 Oct 2025 10:00:00 -0000</pubDate>
+      <enclosure url="https://hulkling.tail166d96.ts.net/episodes/good-hang-amy-poehler/Kate%20McKinnon-blipped.mp3" type="audio/mpeg" length="60801698" />
+    </item>
+  </channel>
+</rss>
